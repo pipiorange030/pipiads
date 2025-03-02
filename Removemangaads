@@ -1,5 +1,5 @@
 ##manwa.me 漫蛙
-DOMAIN-SUFFIX, a.magsrv.com, reject
-DOMAIN-SUFFIX, bullionglidingscuttle.com, reject
-DOMAIN-SUFFIX, a.pemsrv.com, reject
-DOMAIN-SUFFIX, rejecttd.doubleclick.net, reject
+DOMAIN-SUFFIX,a.magsrv.com,reject
+DOMAIN-SUFFIX,bullionglidingscuttle.com,reject
+DOMAIN-SUFFIX,a.pemsrv.com,reject
+DOMAIN-SUFFIX,rejecttd.doubleclick.net,reject
