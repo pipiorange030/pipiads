@@ -1,0 +1,3 @@
+hostname = manwasa.cc, manwa.me
+^https:?/\/manwasa.cc.* url script-response-body https://github.com/pipiorange030/pipiads/blob/main/BanJS.js
+^https:?/\/manwa.me.* url script-response-body https://github.com/pipiorange030/pipiads/blob/main/BanJS.js
