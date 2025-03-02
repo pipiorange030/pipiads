@@ -1,7 +1,4 @@
-body .index-banner {
-    margin-top: 80px;
-    display: none !important;
-}
+div .index-banner {display: none !important;}
 
 div .custom-ad-area  {display: none !important;}
 
